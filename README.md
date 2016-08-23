@@ -1,47 +1,18 @@
-Starting the server for development
-====================
-gem install jekyll
-jekyll s
+# [www.empowerunited.com](http://www.empowerunited.com)
+###### We engage in the full cycle of website development services from conceptualization through implementation and maintenance.
 
-Mail setup
-================
-cd mail
-curl -sS https://getcomposer.org/installer | php
-php composer.phar install
+## Big Projects from Scratch
+Our highest priority is to fully satisfy our clients through early and continuous delivery of excellent software. We handle big and small projects with pleasure and ease.
 
-Deploying
-====================
-jekyll build
-./deploy.sh
+## Modern Technologies and Processes
+Our Love - Ruby, Ruby On Rails, NodeJS, Angular2, React, Ionic, Docker, LXC/D, Ansible, CI/CD
+Clean & Optimized Code. High standards.
 
+## Full Cycle
+From the idea to running and maintaining the website you have a reliable partner.
 
-Agency Jekyll theme
-====================
+## Portfolio
+Check out our awesome Portfolio @ [www.empowerunited.com/#portfolio](http://www.empowerunited.com/#portfolio).
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
-
-# How to use
-
-###Portfolio
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+## Contact Us
+If you are interested in our services, don't hesitate to ping us at <office@empowerunited.com>.
